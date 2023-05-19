@@ -1,2 +1,2 @@
 # Notebook
-Private note book
+Private note book.
